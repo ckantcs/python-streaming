@@ -36,8 +36,4 @@ for line in sys.stdin:
 		fullsubject =  line[1]
 for key, value in countmap.items():
 	print fullsubject , '\t', key, '\t', value
-			
-		
-		
-
 	
